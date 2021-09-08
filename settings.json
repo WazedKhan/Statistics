@@ -1,0 +1,38 @@
+{
+    "python.pythonPath": "C:\\Users\\wazed\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "jupyter.alwaysTrustNotebooks": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 17,
+    "editor.formatOnSave": true,
+    "editor.cursorSurroundingLines": 1,
+    "editor.fontLigatures": null,
+    "git.autofetch": true,
+    "terminal.integrated.fontFamily": "Courier New",
+    "workbench.editorAssociations": {
+        "*.png": "cweijan.officeViewer",
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\wazed\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "workbench.colorTheme": "One Dark Pro",
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "editor.hover.enabled": false,
+    //"editor.quickSuggestions": false,
+    "editor.parameterHints": false,
+    "editor.bracketPairColorization.enabled": true,
+    "breadcrumbs.enabled": false,
+    //"editor.suggest.preview": true,
+}
